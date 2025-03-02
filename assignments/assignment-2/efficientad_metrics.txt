@@ -1,0 +1,4 @@
+Category	Image_AUROC	Image_F1Score	Pixel_AUROC	Pixel_F1Score
+grid	0.9833	0.9821	0.9111	0.4636
+tile	0.9812	0.9576	0.8303	0.5853
+leather	0.8655	0.8649	0.9357	0.4197
