@@ -1,5 +1,11 @@
-This folder is to be used to store the code for your project. 
+## This folder is to be used to store the code for your project. 
 
-output video clips of 3 questions are in output_clips folder
+## Output video clips of 3 questions are in output_clips folder
+https://github.com/HanwenLiao/eng-ai-agents-hw/tree/main/project/output_clips
 
-app is in Gradio folder
+## App is in Gradio folder
+https://github.com/HanwenLiao/eng-ai-agents-hw/tree/main/project/Gradio
+
+## Below is how the app look like
+
+<img width="1530" alt="Screenshot 2025-04-25 at 5 47 21 PM" src="https://github.com/user-attachments/assets/1758426b-8094-4735-8a63-7a86fc774664" />
