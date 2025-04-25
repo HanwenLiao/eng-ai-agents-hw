@@ -1,0 +1,15 @@
+name: planner.solve_pddl_problem
+description: |
+  Solves a PDDL domain and problem file using the Unified Planning library and returns the resulting action plan.
+  Expects the full text content of the domain and problem files as input.
+inputs:
+  - name: domain_pddl
+    type: string
+    description: The PDDL domain definition as a string.
+  - name: problem_pddl
+    type: string
+    description: The PDDL problem definition as a string.
+outputs:
+  - name: plan
+    type: list
+    description: A list of action strings, e.g., ["assign-model(gpt4, req1, tok2000, tok8000, coding)"]
