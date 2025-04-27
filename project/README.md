@@ -3,6 +3,8 @@
 ## Output video clips of 3 questions are in output_clips folder
 https://github.com/HanwenLiao/eng-ai-agents-hw/tree/main/project/output_clips
 
+## There is a sample demo video called demo.mp4
+
 ## App is in Gradio folder
 https://github.com/HanwenLiao/eng-ai-agents-hw/tree/main/project/Gradio
 
