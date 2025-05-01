@@ -1,0 +1,9 @@
+# tools/query_openrouter.yaml
+
+name: router.query_openrouter_api
+description: Query available free models and metadata from OpenRouter.
+inputs: []
+outputs:
+  - name: models
+    type: list
+    description: A list of models with name, provider, capabilities, price, max_tokens.
